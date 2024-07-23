@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&text=Eunhye%27s+Github&fontSize=70&fontColor=ffd400&fontAlign=50&fontAlignY=50&desc=Welcome+%3A%29&descSize=20&descAlign=50&descAlignY=70)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyea&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyea&show_icons=true&theme=buefy)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhrjsdn3853&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunhyea)](https://solved.ac/eunhyea)
