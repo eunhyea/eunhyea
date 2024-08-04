@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&text=Eunhye%27s+Github&fontSize=70&fontColor=ffd400&fontAlign=50&fontAlignY=50&desc=Welcome+%3A%29&descSize=20&descAlign=50&descAlignY=70)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyea&show_icons=true&theme=buefy)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhrjsdn3853&layout=compact)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eunhyea&show_icons=true&theme=buefy"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrjsdn3853&layout=compact">
+</p>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunhyea)](https://solved.ac/eunhyea)
+프로필]http://mazassumnida.wtf/api/v2/generate_badge?boj=eunhyea)](https://solved.ac/eunhyea&width=33%&height=auto)
 
+  
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
@@ -18,3 +21,4 @@
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)<br>
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+30%
