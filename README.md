@@ -3,6 +3,8 @@
   
 [![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=110&text=Eunhye%27s+Github&fontSize=50&fontColor=8a67ab&fontAlign=50&fontAlignY=50&desc=Welcome+%3A%29&descSize=20&descAlign=50&descAlignY=75)](https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Eunhye's%20GitHub&reversal=false&section=header&desc=welcome%20!&descAlignY=80&fontSize=50&fontAlignY=50&animation=twinkling&stroke=feda00&strokeWidth=2&fontColor=feda00&descSize=20)  
 $\color{#feda00}▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀$<br><br><br>
+### 🙌 안녕하세요, 고은혜입니다! 🙌
+<br><br>
 <p>
     <img height="120em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunhyea">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=eunhyea&show_icons=true&theme=buefy">   
@@ -20,6 +22,7 @@ $\color{#feda00}▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄�
   <br>
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   <br>
   <br>
   <br>
@@ -30,6 +33,8 @@ $\color{#feda00}▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄�
   ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
   ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
   ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
+  ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
   <br>
   <br>
 
